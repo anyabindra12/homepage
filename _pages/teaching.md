@@ -14,7 +14,7 @@ nav_order: 5
 
 21228 : Discrete Math with Po Shen :) Intro to Ramsey Theory, cool stuff on Lucas theorem, Catalan numbers.
 
-18220 : $$V=L \frac{di}{dt}$$, RL, RC circuits. Analog Filters. The labs were cool, built a remote control for TV, (very slow) phone charger etc
+18220 : $$V=L \frac{di}{dt}$$, RL, RC circuits. Analog Filters. The labs were cool, built a remote control for TV, RFID scanner, (very slow) phone charger etc
 
 18290 : Fourier Series and Transforms, Hamming windows on Matlab, signal processing. The definition we learn for FT is $$\hat{f}(\zeta)=\int_{-\infty}^{\infty} f(x) e^{-2 \pi i \zeta x} dx$$ and most problems are computing FTs and IFTs of periodic and non periodic signals.
 
