@@ -2,25 +2,30 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://twitter.com/KERNEL0x'>@KB7</a><a href='https://twitter.com/HalogenVC'> | Undergrad VC @ Halogen Ventures</a><a href='https://twitter.com/ventureco_op'> @Venture Cooperative</a><a href='https://www.gatorventurecapital.org'> @Catalyst XL</a>
+
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: pic_1.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>555 your office number</p>
     <p>123 your address street</p>
     <p>Your City, State 12345</p>
 
-news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+news: false  # includes a list of news items
+latest_posts: false  # includes a list of the newest posts
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+<a href='https://www.cmu.edu'>@Carnegie Mellon</a> studying Electrical and Computer Engineering.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Interested in Machine Learning, Generative AI, Distributed and Embedded Systems. Also exploring theoretical foundations of Programming Languages.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+\\
+[More information](https://linkedin.com/in/anyabindra/), [Github](https://github.com/qbit12) , [Twitter](https://twitter.com/anya_bindra)
+
+<img src="assets/img/pic2.jpg" width="200" height="266">
+
