@@ -20,6 +20,6 @@ nav_order: 5
 
 80310 : Proved soundness and completeness of first order logic
 
-21259 : 3D Calc, $\int_{C} F \cdot dr = \iint_{S} \mathrm{curl} \hspace{2pt} F \cdot dS$, Stokes and Divergence Theorems, Green’s theorem, quadric surfaces, directional derivatives etc
+21259 : 3D Calc, $$\int_{C} F \cdot dr = \iint_{S} \mathrm{curl} \hspace{2pt} F \cdot dS$$, Stokes and Divergence Theorems, Green’s theorem, quadric surfaces, directional derivatives etc
 
 18100 : Intro to ECE. Labs were cool, built a transmitter and receiver for radio, current to voltage converter, digital circuits
