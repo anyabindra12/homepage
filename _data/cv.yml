@@ -23,14 +23,12 @@
       year: Summer 2023
       description:
         - Infrastructure & Security Team
-        - Tools: Docker, Kubernetes, AWS, Azure, DevOps
+        - Tools used are Docker, Kubernetes, AWS, Azure, DevOps
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
+    
 
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Learning Languages (French, Portuguese, Spanish)
+    - <u>Hobbies:</u> Learning Languages (French, Portuguese, Spanish etc)
